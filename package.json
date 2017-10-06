@@ -1,5 +1,5 @@
 {
-  "name": "easylearning",
+  "name": "themechanix",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "dev-start": "concurrently \"npm run dev-server\" \"npm run dev-client\"",
     "build": "webpack"
   },
-  "author": "sourabh_khera",
+  "author": "themechanix",
   "license": "ISC",
   "dependencies": {
     "async": "^2.5.0",
